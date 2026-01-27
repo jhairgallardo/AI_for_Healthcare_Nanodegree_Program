@@ -1,0 +1,8 @@
+PatientID,PatientAge,PatientSex,Modality,StudyDescription,Rows,Columns
+13118,69,M,DX,Atelectasis,1024,1024
+1688,59,F,DX,Infiltration|Nodule,1024,1024
+5066,52,M,DX,Cardiomegaly|Effusion|Infiltration,1024,1024
+13659,62,F,DX,Consolidation|Mass|Pneumonia|Pneumothorax,1024,1024
+10172,59,F,DX,Atelectasis|Effusion,1024,1024
+29579,24,F,DX,Effusion|Nodule|Pleural_Thickening|Mass,1024,1024
+23075,31,M,DX,Mass,1024,1024
